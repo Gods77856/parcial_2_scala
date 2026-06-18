@@ -1,0 +1,13 @@
+# Artefactos generados por sbt/Scala; se regeneran con compile o test.
+target/
+project/target/
+project/project/
+
+# Metadatos de editores y del sistema operativo que no son parte de la solución.
+.bsp/
+.bloop/
+.metals/
+.idea/
+.vscode/
+.DS_Store
+._*

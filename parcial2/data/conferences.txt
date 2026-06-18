@@ -1,0 +1,6 @@
+# Conferencias académicas incorporadas por el ejercicio 2
+ICFP
+Scala Days
+Strange Loop
+JVM Language Summit
+ScalaMatsuri
