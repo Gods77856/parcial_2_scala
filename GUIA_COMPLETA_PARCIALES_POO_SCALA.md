@@ -884,3 +884,5 @@ object GenericAnalyzer {
 - [ ] El commit contiene todos los archivos pedidos.
 
 La idea más transferible del laboratorio es esta: cuando distintos tipos responden de manera distinta a la misma pregunta, convertí esa pregunta en un método del tipo base y dejá que cada subclase responda mediante herencia y `override`. El resto del programa podrá trabajar con una colección heterogénea como si fuera uniforme, que es justamente el valor práctico del polimorfismo.
+
+"Resuelve este código según esta consigna: [pega el código completo]. Consigna: [tu instrucción detallada, ej: 'corrige bugs, optimiza rendimiento y explica cambios']."
